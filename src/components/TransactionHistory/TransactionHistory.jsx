@@ -1,5 +1,3 @@
-import css from './TransactionHistory.module.css';
-
 export const TransactionHistory = ({ items }) => {
   return (
     <table class="transaction-history">
