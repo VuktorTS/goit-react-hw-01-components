@@ -46,6 +46,7 @@
   padding: 30px;
   border-top: 1px #8989893b solid;
   border-right: 1px #8989893b solid;
+  background-color: hsl(0deg 0% 100% / 38%);
 }
 .statsItem:last-child {
   border-right: none;
