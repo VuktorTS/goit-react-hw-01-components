@@ -13,8 +13,8 @@ export const App = () => {
     <div className={css.main}>
       <Profile {...user} />
       <Statistics stats={data} />
-      <FriendList friends={friends} />;
-      <TransactionHistory items={transactions} />;
+      <FriendList friends={friends} />
+      <TransactionHistory items={transactions} />
     </div>
   );
 };
