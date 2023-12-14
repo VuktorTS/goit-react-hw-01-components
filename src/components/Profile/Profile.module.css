@@ -2,7 +2,8 @@
   border-radius: 5px;
   max-width: 380px;
   width: 100%;
-  box-shadow: 0px 4px 12px 0px #313222;
+  box-shadow: 0px 3px 12px -7px #313222;
+  margin-bottom: 5px;
 }
 .description {
   padding: 40px;
